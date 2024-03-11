@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-
+        Console.WriteLine(binaryToDenary("1001"))
     End Sub
     Function binaryToDenary(binaryNum As String) As Integer
 
